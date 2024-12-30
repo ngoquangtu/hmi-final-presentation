@@ -1,0 +1,27 @@
+[
+    {
+      "title": "PDF Report File",
+      "imageSrc": "projects/lanhost.jpg",
+      "description": "This is a service build for hosting service.",
+      "skills": [],
+      "demo": "https://hmi-course.vercel.app/",
+      "source": "https://github.com/ngoquangtu/hmi-course-"
+    },
+    {
+      "title": "Slide",
+      "imageSrc": "projects/hmi-landingpage.jpg",
+      "description": "This is a landing page for final presentation",
+      "skills": [],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Consent & Survey Form",
+      "imageSrc": "projects/project.png",
+      "description": "This is our Low-Fi Prototype!",
+      "skills": [],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  

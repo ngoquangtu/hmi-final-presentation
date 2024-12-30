@@ -1,0 +1,26 @@
+[
+  {
+    "title": "High-Fi Prototype",
+    "imageSrc": "projects/lanhost.jpg",
+    "description": "This is a service build for hosting service.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://hmi-course.vercel.app/",
+    "source": "https://github.com/ngoquangtu/hmi-course-"
+  },
+  {
+    "title": "Landing Page",
+    "imageSrc": "projects/hmi-landingpage.jpg",
+    "description": "This is a landing page for final presentation",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Low-Fi Prototype",
+    "imageSrc": "projects/project.png",
+    "description": "This is our Low-Fi Prototype!",
+    "skills": ["Hand draw"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
