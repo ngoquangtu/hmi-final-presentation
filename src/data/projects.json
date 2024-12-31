@@ -17,10 +17,28 @@
   },
   {
     "title": "Low-Fi Prototype",
-    "imageSrc": "projects/project.png",
-    "description": "This is our Low-Fi Prototype!",
-    "skills": ["Hand draw"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "imageSrc": "projects/lofi-pro.jpg",
+    "description": "This is our Low-Fi Prototype!                                                  ",
+    "skills": ["Hand draw","PDF"],
+    "demo": "https://husteduvn.sharepoint.com/:b:/s/2024.1AC4150ETngtcngi-my-Group01/EfQINGW2fBhOqfLqIGhhtaQBiUXPPEJz0Uk78Gy542kn3g?e=oirFgL",
+    "source": "https://husteduvn.sharepoint.com/:b:/s/2024.1AC4150ETngtcngi-my-Group01/EfQINGW2fBhOqfLqIGhhtaQBiUXPPEJz0Uk78Gy542kn3g?e=oirFgL"
+  },
+  {
+    "title": "Medi-Fi Prototype",
+    "imageSrc": "projects/medi-fi.jpg",
+    "description": "This is our Medi-Fi Prototype,consist of Figma !                                                  ",
+    "skills": ["Hand draw","FigMa"],
+    "demo": "https://www.figma.com/design/MZrCoTVW44GWIewThVGooj/HMI-GROUP1?node-id=0-1&p=f&t=94YlBn084hOIDMrA-0",
+    "source": "https://www.figma.com/design/MZrCoTVW44GWIewThVGooj/HMI-GROUP1?node-id=0-1&p=f&t=94YlBn084hOIDMrA-0"
+  },
+  {
+    "title": "Medi-Fi Evaluate",
+    "imageSrc": "projects/mefi-eval.jpg",
+    "description": "This is our Me-Fi Evaluation !",
+    "skills": ["PDF"],
+    "demo": "https://husteduvn.sharepoint.com/:b:/s/2024.1AC4150ETngtcngi-my-Group01/EdbiwEmhJv9LirOX0dYXgyQB1mvgH6j-bR2q9Iy79_t0Ug?e=gXnWe7",
+    "source": "https://husteduvn.sharepoint.com/:b:/s/2024.1AC4150ETngtcngi-my-Group01/EdbiwEmhJv9LirOX0dYXgyQB1mvgH6j-bR2q9Iy79_t0Ug?e=gXnWe7"
   }
+  
+
 ]

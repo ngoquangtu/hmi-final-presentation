@@ -1,27 +1,27 @@
 [
     {
       "title": "PDF Report File",
-      "imageSrc": "projects/lanhost.jpg",
-      "description": "This is a service build for hosting service.",
+      "imageSrc": "projects/needfinding.jpg",
+      "description": "This is a Our Needfinding PDF file.",
       "skills": [],
-      "demo": "https://hmi-course.vercel.app/",
-      "source": "https://github.com/ngoquangtu/hmi-course-"
+      "demo": "https://husteduvn.sharepoint.com/:b:/s/2024.1AC4150ETngtcngi-my-Group01/Ec0X463_bipGhIfLwgeZBMoB8m5BHaJP__vuvPP9In4qDA?e=laIh7p",
+      "source": "https://husteduvn.sharepoint.com/:b:/s/2024.1AC4150ETngtcngi-my-Group01/Ec0X463_bipGhIfLwgeZBMoB8m5BHaJP__vuvPP9In4qDA?e=laIh7p"
     },
     {
       "title": "Slide",
-      "imageSrc": "projects/hmi-landingpage.jpg",
-      "description": "This is a landing page for final presentation",
+      "imageSrc": "projects/slide.jpg",
+      "description": "This is a slide for presentation",
       "skills": [],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://husteduvn.sharepoint.com/:b:/s/2024.1AC4150ETngtcngi-my-Group01/EcVnjJnQMilGjCCgjCQ5powBy86g5fvyWDbYxE2jh7Camw?e=qgqYWx",
+      "source": "https://husteduvn.sharepoint.com/:b:/s/2024.1AC4150ETngtcngi-my-Group01/EcVnjJnQMilGjCCgjCQ5powBy86g5fvyWDbYxE2jh7Camw?e=qgqYWx"
     },
     {
       "title": "Consent & Survey Form",
-      "imageSrc": "projects/project.png",
-      "description": "This is our Low-Fi Prototype!",
+      "imageSrc": "projects/convey.jpg",
+      "description": "This is our survery form!",
       "skills": [],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://forms.office.com/pages/responsepage.aspx?id=n7jxBugHT0a0COwbRXA_MebLtyXQogdEpGqQOciAPxNUMzcwQ1NZMzA0RFhYSjBZNUZKSFk3NVpBTy4u&fbclid=IwY2xjawHgL8NleHRuA2FlbQIxMAABHQAVek05yOr8R67THn1bffuxt6E0_tHL7BRQBCu9ZDu1uOtkUihNCpW4kQ_aem_YHmP9N2guuDQKOBii0WHsw&route=shorturl",
+      "source": "https://forms.office.com/pages/responsepage.aspx?id=n7jxBugHT0a0COwbRXA_MebLtyXQogdEpGqQOciAPxNUMzcwQ1NZMzA0RFhYSjBZNUZKSFk3NVpBTy4u&fbclid=IwY2xjawHgL8NleHRuA2FlbQIxMAABHQAVek05yOr8R67THn1bffuxt6E0_tHL7BRQBCu9ZDu1uOtkUihNCpW4kQ_aem_YHmP9N2guuDQKOBii0WHsw&route=shorturl"
     }
   ]
   
