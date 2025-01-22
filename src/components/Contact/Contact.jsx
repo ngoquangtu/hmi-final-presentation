@@ -26,7 +26,7 @@ export const Contact = () => {
       </div>
       <iframe
         style={videoStyle}
-        src="https://www.youtube.com/embed/OM8bLJCjzYc"
+        src="https://www.youtube.com/embed/nvzZR9P42qY"
         title="Concept Video"
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
